@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\bin\Debug\netcoreapp3.1\LeaveApp.exe
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\bin\Debug\netcoreapp3.1\LeaveApp.deps.json
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\bin\Debug\netcoreapp3.1\LeaveApp.runtimeconfig.json
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\bin\Debug\netcoreapp3.1\LeaveApp.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\bin\Debug\netcoreapp3.1\LeaveApp.dll
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\bin\Debug\netcoreapp3.1\LeaveApp.pdb
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\obj\Debug\netcoreapp3.1\LeaveApp.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\obj\Debug\netcoreapp3.1\LeaveApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\obj\Debug\netcoreapp3.1\LeaveApp.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\obj\Debug\netcoreapp3.1\LeaveApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\obj\Debug\netcoreapp3.1\LeaveApp.dll
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\obj\Debug\netcoreapp3.1\LeaveApp.pdb
+C:\Users\ADMIN\source\repos\LeaveApp\LeaveApp\obj\Debug\netcoreapp3.1\LeaveApp.genruntimeconfig.cache
